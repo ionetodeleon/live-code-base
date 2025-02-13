@@ -1,0 +1,7 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  flex-direction: column;
+  text-align: left;
+}
